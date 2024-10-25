@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/codesandbox-app/static-template#readme",
   "devDependencies": {
-    "nodemon": "^3.0.1"
+    "nodemon": "^3.1.7"
   },
   "dependencies": {
     "@babel/code-frame": "7.23.5",

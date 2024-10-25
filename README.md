@@ -9,15 +9,15 @@ Each object should have a `lat` and `long` value.
 
 ## Try it out at
 
-- [/api?endpoint=<url_on_target_file>](https://v-avdieiev.bcns.ai/json2geojson)
+- [/api?endpoint=<url_on_target_file>](https://github.com/GeneralFlint/json-to-geojson)
 
 or
 
-- [https://52kk6x-3000.csb.app/api?endpoint=<url_on_target_file>](https://52kk6x-3000.csb.app/api?endpoint=bit.ly/simple-json)
+- [https://52kk6x-3000.csb.app/api?endpoint=<url_on_target_file.json>](https://52kk6x-3000.csb.app/api?endpoint=url_on_target_file.json)
 
 ## Connection with a developer
 
-[![Telegram](https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram)](https://telegram.me/developer_support_bot)
+[![Telegram](https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram)](https://t.me/PR0DEV)
 
 ## Resources
 
